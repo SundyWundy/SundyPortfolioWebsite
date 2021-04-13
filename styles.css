@@ -40,10 +40,6 @@ a:hover{
     background-size: 100% 100%;
 }
 
-.skill{
-    margin-left: 20%;
-}
-
 .linkin{
     border-radius: 10%;
 }
@@ -78,14 +74,13 @@ a:hover{
 }
 
 .border > p{
-    width: 25%;
+    width: 35%;
     margin-left: 15%;
     padding: 2%;
 }
 
 .buttside{
-    float: right;
-    margin-right: 27.5%;
+    margin-top: 2.5%;
 }
 
 .gitrepo{
@@ -110,11 +105,11 @@ footer{
 
 .projright{
     float: right;
-    margin-right: 20%;
+    margin-right: 10%;
 }
 
 .site{
-    width: 30%;
+    width: 60%;
     height: 10%;
     border-radius: 8px;
     border: 2px solid blue;
@@ -130,8 +125,6 @@ button:hover{
     background-color: blue;
     color: white;
 }
-
-
 
 
 
